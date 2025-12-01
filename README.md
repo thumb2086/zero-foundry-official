@@ -1,12 +1,12 @@
-# Zero Foundry - 官方儲存庫
+# Zero Foundry - Official Repository
 
-此儲存庫用於存放 Zero Foundry 的官方武器平衡數值與外觀造型。
+This repository stores the official weapon balance stats and appearance skins for Zero Foundry.
 
-## 儲存庫結構
+## Repository Structure
 
-- `stats/`: 存放武器的平衡數值（如：傷害、射速、後座力等）。
-- `appearances/`: 存放官方武器外觀造型（包含限定、典藏、戰鬥通行證等）。
+- `stats/`: Contains weapon balance stats (e.g., damage, fire rate, recoil).
+- `appearances/`: Contains official weapon appearance skins (including limited edition, collector's, and battle pass).
 
-## 貢獻
+## Contributions
 
-請注意，此儲存庫為集中管理。只有授權人員 (`thumb2086`) 能夠直接推送（push），我們不接受拉取請求（Pull Request）。
+Please note that this repository is centrally managed. Only authorized personnel (`thumb2086`) can push directly. We do not accept Pull Requests.
