@@ -1,6 +1,6 @@
 # Zero Foundry - Official Repository
 
-This repository stores the official weapon balance stats and appearance skins for Zero Foundry.
+This repository stores the official weapon balance stats and appearance skins for Zero Foundry. This is the official repository for [Protocol-Zero](https://github.com/thumb2086/Protocol-Zero).
 
 ## Repository Structure
 

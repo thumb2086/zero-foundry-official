@@ -1,6 +1,6 @@
 # Zero Foundry - 官方儲存庫
 
-此儲存庫用於存放 Zero Foundry 的官方武器平衡數值與外觀造型。
+此儲存庫用於存放 Zero Foundry 的官方武器平衡數值與外觀造型。這是 [Protocol-Zero](https://github.com/thumb2086/Protocol-Zero) 的官方儲存庫。
 
 ## 儲存庫結構
 
