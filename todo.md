@@ -13,6 +13,19 @@
 - [ ] operator.json
 - [ ] sheriff.json
 - [ ] odin.json
+- [ ] shorty.json
+- [ ] frenzy.json
+- [ ] ghost.json
+- [ ] stinger.json
+- [ ] spectre.json
+- [ ] bucky.json
+- [ ] judge.json
+- [ ] bulldog.json
+- [ ] guardian.json
+- [ ] marshal.json
+- [ ] outlaw.json
+- [ ] ares.json
+- [ ] melee.json
 
 ### 官方槍皮
 - [x] vandal-default.json
